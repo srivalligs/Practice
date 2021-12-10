@@ -7,7 +7,11 @@ public class SriT1 {
 	@Test
 	public void practest() {
 		System.out.println("Hiiiii");
-		System.out.println("Trial1");
+
+
+		System.out.println("changes by sowmya");
+
+		System.out.println("Hello");
 	}
 
 }
