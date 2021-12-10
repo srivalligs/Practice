@@ -8,6 +8,7 @@ public class SriT1 {
 	public void practest() {
 		System.out.println("Hiiiii");
 		System.out.println("Hello");
+		System.out.println("1st time");
 	}
 
 }
