@@ -8,17 +8,10 @@ public class SriT1 {
 	public void practest() {
 		System.out.println("Hiiiii");
 
+
 		System.out.println("changes by sowmya");
 
 		System.out.println("Hello");
-		System.out.println("1st time");
-
-		System.out.println("sowmya third time");
-		
-		System.out.println("hi suma222277777 here2222");
-
-		System.out.println("2nd time");
-
 	}
 
 }
