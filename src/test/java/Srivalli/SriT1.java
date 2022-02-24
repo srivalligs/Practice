@@ -13,5 +13,9 @@ public class SriT1 {
 
 		System.out.println("Hello");
 	}
-
+          
+	public void display()
+	{
+		System.out.println("testing with avinash");
+	}
 }
