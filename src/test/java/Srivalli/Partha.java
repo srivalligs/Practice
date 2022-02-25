@@ -1,10 +1,20 @@
 package Srivalli;
 
+import org.testng.annotations.Test;
+
 public class Partha {
-	
+	@Test
 	public void Sowmya()
 	{
-		System.out.print("Partha");
+	String s="A";
+	switch(s)
+	{
+	case "A":
+		System.out.print("AAAAAAAAaa");
+		break;
+	
+	
+	}
 	}
 
 }
